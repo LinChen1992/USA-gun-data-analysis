@@ -1,0 +1,2 @@
+# USA-gun-data-analysis
+Possession, purchase or sale of firearms and ammunition has been quite common in the United States for centuries. However, increasing acts of violence and even deaths associated with guns also deserve to be mentioned, especially after the pandemic of COVID-19. Therefore, with the help of **FBI gun data**, an analysis could be carried out to figure out the geographics, growth and other trends for the firearms in the U.S.
